@@ -1,0 +1,40 @@
+html {
+	font-family: 'Droid Sans', sans-serif;
+	background-color: black;
+}
+
+header h1, h2 {
+	font-family: 'Lobster', cursive;
+	font-size: 65px;
+	padding-top: 20px;
+	padding-left: 450px;
+	color: white;
+	text-shadow: #000 -1px -1px 0;
+}
+
+body {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #312815;
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+
+}
+	p {color:black; }
+	h1 {font-family:Impact; }
+	h2 {color:blue; }
+	h1,h2 {text-align:center; }
+	body {background-color:#DEB887; font-family:Arial; }
+
+header {
+  height: 95px;
+  background-color: #596B83;
+}
+nav {
+  width: 750px;
+  margin-left: auto;
+  margin-right:auto;
+  text-align:center;
+  font-size: 12px;
+}
